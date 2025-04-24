@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
 import { addToCart } from '../redux/cartSlice';
 import '../App.css';
-import Products from './Products'
+
 export default function Card({ product }) {
     const { title, img, price, description } = product
     const dispatch = useDispatch()
