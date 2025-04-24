@@ -4,6 +4,9 @@ import { useDispatch, useSelector } from "react-redux";
 import { increment, decrement } from "./redux/cartSlice";
 
 
+
+
+
 export default function ShoppingCart() {
     const cartItems = useSelector((state) => state.cart.cartItems)
     console.log(cartItems)
