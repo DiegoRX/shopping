@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "title": "Lavender Breeze",
+        "img": "https://example.com/images/lavender.jpg",
+        "price": 19.99,
+        "description": "Soft lavender scent for a calming atmosphere.",
+        "type": "aromatic"
+    },
+    {
+        "id": 2,
+        "title": "Citrus Splash",
+        "img": "https://example.com/images/citrus.jpg",
+        "price": 15.49,
+        "description": "Energizing citrus fragrance for freshness.",
+        "type": "aromatic"
+    },
+    {
+        "id": 3,
+        "title": "Ocean Mist",
+        "img": "https://example.com/images/ocean.jpg",
+        "price": 18.25,
+        "description": "A fresh ocean breeze in every spray.",
+        "type": "aromatic"
+    },
+    {
+        "id": 4,
+        "title": "Vanilla Cream",
+        "img": "https://example.com/images/vanilla.jpg",
+        "price": 17.75,
+        "description": "Warm and cozy vanilla fragrance.",
+        "type": "aromatic"
+    },
+    {
+        "id": 5,
+        "title": "Rose Petal",
+        "img": "https://example.com/images/rose.jpg",
+        "price": 20.00,
+        "description": "Romantic rose aroma for any room.",
+        "type": "aromatic"
+    },
+    {
+        "id": 6,
+        "title": "Pine Forest",
+        "img": "https://example.com/images/pine.jpg",
+        "price": 16.80,
+        "description": "Smell the fresh pine just like in the woods.",
+        "type": "aromatic"
+    },
+    {
+        "id": 7,
+        "title": "Amber Spice",
+        "img": "https://example.com/images/amber.jpg",
+        "price": 21.90,
+        "description": "A bold mix of amber and spices.",
+        "type": "aromatic"
+    },
+    {
+        "id": 8,
+        "title": "Jasmine Bloom",
+        "img": "https://example.com/images/jasmine.jpg",
+        "price": 19.10,
+        "description": "Sweet jasmine essence for your home.",
+        "type": "aromatic"
+    },
+    {
+        "id": 9,
+        "title": "Coconut Paradise",
+        "img": "https://example.com/images/coconut.jpg",
+        "price": 18.95,
+        "description": "Feel like you're in a tropical island.",
+        "type": "aromatic"
+    },
+    {
+        "id": 10,
+        "title": "Green Tea",
+        "img": "https://example.com/images/greentea.jpg",
+        "price": 14.99,
+        "description": "Refreshing and light green tea aroma.",
+        "type": "aromatic"
+    },
+    {
+        "id": 11,
+        "title": "White Musk",
+        "img": "https://example.com/images/musk.jpg",
+        "price": 22.00,
+        "description": "Elegant and subtle musk tones.",
+        "type": "aromatic"
+    },
+    {
+        "id": 12,
+        "title": "Cinnamon Spice",
+        "img": "https://example.com/images/cinnamon.jpg",
+        "price": 15.99,
+        "description": "Spicy and sweet cinnamon scent.",
+        "type": "aromatic"
+    },
+    {
+        "id": 13,
+        "title": "Sandalwood",
+        "img": "https://example.com/images/sandalwood.jpg",
+        "price": 23.50,
+        "description": "Woody and rich sandalwood experience.",
+        "type": "aromatic"
+    },
+    {
+        "id": 14,
+        "title": "Eucalyptus Mint",
+        "img": "https://example.com/images/eucalyptus.jpg",
+        "price": 16.49,
+        "description": "Clean and fresh blend of mint and eucalyptus.",
+        "type": "aromatic"
+    },
+    {
+        "id": 15,
+        "title": "Berry Delight",
+        "img": "https://example.com/images/berry.jpg",
+        "price": 17.30,
+        "description": "A fruity explosion of mixed berries.",
+        "type": "aromatic"
+    },
+    {
+        "id": 16,
+        "title": "HEPA Air Master",
+        "img": "https://example.com/images/hepa.jpg",
+        "price": 49.99,
+        "description": "Advanced HEPA filter purifier for clean air.",
+        "type": "purifier"
+    },
+    {
+        "id": 17,
+        "title": "Ionizer Pro",
+        "img": "https://example.com/images/ionizer.jpg",
+        "price": 59.99,
+        "description": "Ionizer that eliminates allergens and odors.",
+        "type": "purifier"
+    },
+    {
+        "id": 18,
+        "title": "Breathe Easy Mini",
+        "img": "https://example.com/images/mini.jpg",
+        "price": 39.95,
+        "description": "Compact air purifier for small rooms.",
+        "type": "purifier"
+    },
+    {
+        "id": 19,
+        "title": "UV Cleanse",
+        "img": "https://example.com/images/uv.jpg",
+        "price": 65.00,
+        "description": "UV technology that kills airborne germs.",
+        "type": "purifier"
+    },
+    {
+        "id": 20,
+        "title": "Silent Fresh",
+        "img": "https://example.com/images/silent.jpg",
+        "price": 58.20,
+        "description": "Whisper-quiet air purifier with smart sensors.",
+        "type": "purifier"
+    },
+    {
+        "id": 21,
+        "title": "Allergy Shield",
+        "img": "https://example.com/images/allergy.jpg",
+        "price": 52.99,
+        "description": "Perfect for allergy and asthma sufferers.",
+        "type": "purifier"
+    },
+    {
+        "id": 22,
+        "title": "Pet Dander Remover",
+        "img": "https://example.com/images/pet.jpg",
+        "price": 47.50,
+        "description": "Traps pet hair and dander from the air.",
+        "type": "purifier"
+    },
+    {
+        "id": 23,
+        "title": "CoolAir Breeze",
+        "img": "https://example.com/images/coolair.jpg",
+        "price": 62.30,
+        "description": "Purifies and cools air simultaneously.",
+        "type": "purifier"
+    },
+    {
+        "id": 24,
+        "title": "Compact Cube",
+        "img": "https://example.com/images/cube.jpg",
+        "price": 44.00,
+        "description": "Stylish and efficient purifier for desks.",
+        "type": "purifier"
+    },
+    {
+        "id": 25,
+        "title": "Smart Purify",
+        "img": "https://example.com/images/smart.jpg",
+        "price": 75.00,
+        "description": "Smart purifier with app control.",
+        "type": "purifier"
+    },
+    {
+        "id": 26,
+        "title": "Eco Pure 3000",
+        "img": "https://example.com/images/eco.jpg",
+        "price": 60.00,
+        "description": "Eco-friendly purifier with reusable filters.",
+        "type": "purifier"
+    },
+    {
+        "id": 27,
+        "title": "Zen Air",
+        "img": "https://example.com/images/zen.jpg",
+        "price": 55.90,
+        "description": "Brings peace of mind and clean air.",
+        "type": "purifier"
+    },
+    {
+        "id": 28,
+        "title": "Dust Destroyer",
+        "img": "https://example.com/images/dust.jpg",
+        "price": 45.75,
+        "description": "Powerful purifier against dust and mold.",
+        "type": "purifier"
+    },
+    {
+        "id": 29,
+        "title": "Air Guardian",
+        "img": "https://example.com/images/guardian.jpg",
+        "price": 67.80,
+        "description": "Ultimate home defense against air pollution.",
+        "type": "purifier"
+    },
+    {
+        "id": 30,
+        "title": "Nano Shield",
+        "img": "https://example.com/images/nano.jpg",
+        "price": 69.99,
+        "description": "Nano-level filtration for ultra-clean air.",
+        "type": "purifier"
+    }
+]
